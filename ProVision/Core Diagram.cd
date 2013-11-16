@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProVision.Core.Entity">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAAgAAgEAAAAAAIAAAAAAAAAAAAQAgAAAAAAA=</HashCode>
+      <FileName>Core\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Core.EntityContainer">
+    <Position X="6.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Core\EntityContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Core.Project">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Core.Feedback">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Core.Edition">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Edition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Core.ProjectPart">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

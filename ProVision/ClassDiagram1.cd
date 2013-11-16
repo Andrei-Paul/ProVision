@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProVision.App" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.GroupDetailPage" Collapsed="true">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GroupDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.GroupedItemsPage" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GroupedItemsPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.ItemDetailPage" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemDetailPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Common.BindableBase" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BindableBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProVision.Common.BooleanNegationConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanNegationConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProVision.Common.BooleanToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProVision.Common.LayoutAwarePage" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQgAAAACAAIAAAAAAIQAQQAAAYAA0AAAAAAAAAAUg=</HashCode>
+      <FileName>Common\LayoutAwarePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Common.RichTextColumns" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEAAgAAAAAAAQAAAAACAAQAAAAAgAAAAAABAAAAAA=</HashCode>
+      <FileName>Common\RichTextColumns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Common.SuspensionManager" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAaIAASCBEAAAICAAAAAIAAAAAAAAAAIAAAABA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Common.SuspensionManagerException" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Data.SampleDataCommon" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAEQEQAAAAAUIAAAAQBAAAAAAAAAARAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Data.SampleDataItem" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAgAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Data.SampleDataGroup" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAACAAAAAQAAAAAABAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProVision.Data.SampleDataSource" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAIAAAAAAAEAAAAEACAAAAAAAAA=</HashCode>
+      <FileName>DataModel\SampleDataSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
